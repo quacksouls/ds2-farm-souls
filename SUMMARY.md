@@ -11,3 +11,4 @@
 - [Harvest Valley & Earthen Peak](doc/harvest-valley.md)
 - [Doors of Pharros](doc/doors-of-pharros.md)
 - [Iron Keep](doc/iron-keep.md)
+- [Brightstone Cove Tseldora](doc/brightstone-cove-tseldora.md)
