@@ -13,3 +13,4 @@
 - [Iron Keep](doc/iron-keep.md)
 - [Brightstone Cove Tseldora](doc/brightstone-cove-tseldora.md)
 - [Drangleic Castle](doc/drangleic-castle.md)
+- [Undead Crypt](doc/undead-crypt.md)
