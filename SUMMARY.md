@@ -14,3 +14,4 @@
 - [Brightstone Cove Tseldora](doc/brightstone-cove-tseldora.md)
 - [Drangleic Castle](doc/drangleic-castle.md)
 - [Undead Crypt](doc/undead-crypt.md)
+- [Aldia's Keep](doc/aldias-keep.md)
