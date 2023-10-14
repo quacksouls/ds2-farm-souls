@@ -16,3 +16,4 @@
 - [Undead Crypt](doc/undead-crypt.md)
 - [Aldia's Keep](doc/aldias-keep.md)
 - [Dragon Shrine](doc/dragon-shrine.md)
+- [Giant Lord](doc/giant-lord.md)
