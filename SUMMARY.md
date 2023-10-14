@@ -8,3 +8,4 @@
 - [No-man's Wharf](doc/no-mans-wharf.md)
 - [The Lost Bastille](doc/lost-bastille.md)
 - [Huntsman's Copse](doc/huntsmans-copse.md)
+- [Harvest Valley & Earthen Peak](doc/harvest-valley.md)
