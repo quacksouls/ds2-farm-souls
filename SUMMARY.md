@@ -7,3 +7,4 @@
 - [Heide's Tower of Flame](doc/heides-tower.md)
 - [No-man's Wharf](doc/no-mans-wharf.md)
 - [The Lost Bastille](doc/lost-bastille.md)
+- [Huntsman's Copse](doc/huntsmans-copse.md)
