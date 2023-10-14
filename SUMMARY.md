@@ -9,3 +9,4 @@
 - [The Lost Bastille](doc/lost-bastille.md)
 - [Huntsman's Copse](doc/huntsmans-copse.md)
 - [Harvest Valley & Earthen Peak](doc/harvest-valley.md)
+- [Doors of Pharros](doc/doors-of-pharros.md)
