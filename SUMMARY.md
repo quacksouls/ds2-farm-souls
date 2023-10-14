@@ -12,3 +12,4 @@
 - [Doors of Pharros](doc/doors-of-pharros.md)
 - [Iron Keep](doc/iron-keep.md)
 - [Brightstone Cove Tseldora](doc/brightstone-cove-tseldora.md)
+- [Drangleic Castle](doc/drangleic-castle.md)
