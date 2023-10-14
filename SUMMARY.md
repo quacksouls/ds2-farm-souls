@@ -10,3 +10,4 @@
 - [Huntsman's Copse](doc/huntsmans-copse.md)
 - [Harvest Valley & Earthen Peak](doc/harvest-valley.md)
 - [Doors of Pharros](doc/doors-of-pharros.md)
+- [Iron Keep](doc/iron-keep.md)
